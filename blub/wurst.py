@@ -4,6 +4,3 @@ d
 dfdfdfdf
 dfdfdfdfdf
 sdsd
-dfdf
-dd
-d
